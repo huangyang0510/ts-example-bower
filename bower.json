@@ -1,0 +1,17 @@
+{
+  "name": "ts-example-bower",
+  "homepage": "https://github.com/huangyang0510/ts-example-bower",
+  "authors": [
+    "huangyang0510 <540113773@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
